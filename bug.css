@@ -1,0 +1,1 @@
+The CSS code has an unusual error that only appears in certain browsers.  The element with the id "myElement" is not being styled correctly. The expected behavior is for the element to have a background color of blue and a width of 200px, however in Chrome this appears correctly, while in Firefox, the element has no background color and a default width.
