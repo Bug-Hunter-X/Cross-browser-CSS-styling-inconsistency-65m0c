@@ -1,0 +1,7 @@
+/* bugSolution.css */
+#myElement {
+  background-color: blue;
+  width: 200px;
+  /* Add box-sizing to ensure consistent width across browsers */
+  box-sizing: border-box; 
+} 
